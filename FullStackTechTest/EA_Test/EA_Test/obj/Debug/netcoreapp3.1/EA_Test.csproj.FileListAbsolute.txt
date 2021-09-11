@@ -1,0 +1,13 @@
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\obj\Debug\netcoreapp3.1\EA_Test.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\obj\Debug\netcoreapp3.1\EA_Test.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\obj\Debug\netcoreapp3.1\EA_Test.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\obj\Debug\netcoreapp3.1\EA_Test.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\bin\Debug\netcoreapp3.1\EA_Test.exe
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\bin\Debug\netcoreapp3.1\EA_Test.deps.json
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\bin\Debug\netcoreapp3.1\EA_Test.runtimeconfig.json
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\bin\Debug\netcoreapp3.1\EA_Test.runtimeconfig.dev.json
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\bin\Debug\netcoreapp3.1\EA_Test.dll
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\bin\Debug\netcoreapp3.1\EA_Test.pdb
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\obj\Debug\netcoreapp3.1\EA_Test.dll
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\obj\Debug\netcoreapp3.1\EA_Test.pdb
+C:\Users\Jamie\source\repos\EA_Test\EA_Test\obj\Debug\netcoreapp3.1\EA_Test.genruntimeconfig.cache

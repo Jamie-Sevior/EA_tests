@@ -1,0 +1,54 @@
+<head>
+    <script src="jquery-3.3.1.min.js"></script>
+    <script>
+        $(function(){
+            $('#input').change(function() {
+                var chosenNumber = $('#input').val();
+                $('#output').text(fizzBuzz(chosenNumber));
+            });
+        });
+
+        function fizzBuzz(maxNumber) {
+            // TODO: Change this function to the FizzBuzz functionality.
+            var MaxNum = parseInt(maxNumber);            
+            var NumList = "";
+            if(isNaN(MaxNum)){
+              NumList = "Please input a number."
+            }
+            else{
+              if(MaxNum >= 1000){
+                NumList = "Don't push it."
+              }
+              else{
+                for (let i = 1; i <= MaxNum; i++){
+                  if(i % 3 == 0 && i % 5 == 0){
+                    NumList = NumList + "FizzBuzz ";
+                  }
+                  else if(i % 3 == 0){
+                    NumList = NumList + "Fizz ";
+                  }
+                  else if(i % 5 == 0){
+                    NumList = NumList + "Buzz ";
+                  }
+                  else{
+                    NumList = NumList + i.toString() + " ";
+                  } 
+              }
+            }   
+          }        
+            
+            return NumList;
+        }
+    </script>
+</head>
+<body>
+    <h1>FizzBuzz</h1>
+    <h2>
+        Enter a number in the box below and the script will count
+        from 1 to that number. If the number is divisible by 3, the
+        text "Fizz" will be shown instead; if divisible by 5, "Buzz"; 
+        or if divisible by both, "FizzBuzz".
+    </h2>
+    <input type="number" id="input"/>
+    <h3 id="output"></h3>
+</body>
